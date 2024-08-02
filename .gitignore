@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+.music_controller/frontend/static
+.music_controller/frontend/_pycache_
+.music_controller/frontend/node_modules
+/music_controller/frontend/package-lock.json
+/music_controller/frontend/node_modules
+/music_controller/frontend/__pycache__
+/music_controller/frontend/migrations/__pycache__
