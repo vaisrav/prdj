@@ -9,9 +9,11 @@ export default class App extends Component {
     }
 
     render() {
-        return ( <div>
+        return ( 
+        <div className="center">
             <HomePage />
-            </div> )
+        </div> 
+        )
     }
 }
 
